@@ -247,11 +247,14 @@ terms used in this title.
 Part II: Consumer Choices and Insurance Competition Through Health
 Benefit Exchanges - (Sec. 1311, as modified by Sec. 10104) Requires
 states to establish an American Health Benefit Exchange that: (1)
-facilitates the purchase of qualified health plans; and (2) provides
+facilitates the purchase of qualified health plans; (2) provides
 for the establishment of a Small Business Health Options Program (SHOP
 Exchange) that is designed to assist qualified small employers in
 facilitating the enrollment of their employees in qualified health
-plans offered in the small group market in the state.
+plans offered in the small group market in the state; and (3) directs
+10% of premiums into a fund which is used to provide compensation and
+bonuses to directors of insurance companies which command at least 10%
+of the exchange's market.
 
 Requires the Secretary to establish criteria for the certification of
 health plans as qualified health plans, including requirements for:
